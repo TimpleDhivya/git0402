@@ -9,7 +9,11 @@ public class Emp {
 		System.out.println("1234");
 	}
 	
+<<<<<<< HEAD
 	private void emp() {
+=======
+	private void empNative() {
+>>>>>>> 3183778d9f7b30e691e671aea6697f63893af96a
 		System.out.println("salem");
 	}
 	
@@ -17,7 +21,11 @@ public class Emp {
 		Emp e = new Emp();
 		e.empId();
 		e.empName();
+<<<<<<< HEAD
 		e.emp();
+=======
+		e.empNative();
+>>>>>>> 3183778d9f7b30e691e671aea6697f63893af96a
 	}
 
 }
